@@ -1,0 +1,63 @@
+<html>
+    <head>
+    <title>Mi curriculum vitae</title>
+       <style>
+        h1 { color: blue;
+            text-align: center;
+        }
+        h2 { color: blue;
+        } 
+        h3 { text-align: justify;  
+        }  
+        #thirdDiv {   background-color: blanchedalmond;
+    padding: 50px;
+    border: 5px solid salmon
+}
+#divClass {  height: 600px;
+    width: 500px;
+    padding: 50px;
+    background-color: blanchedalmond;
+    border: 5px salmon
+}
+       </style>
+</head>
+<body>
+<div id="thirdDiv">
+    <h1>Mi historia de vida</h1>
+    <h3>Mi nombre es Pablo Francisco Santiago Torres a quien le gusta aprender 
+        Y desarrollarse constantemente, hace unos años emprendí y desarrolle por 
+        medio de una aplicación una app en pwa y android en finanzad personales 
+        donde logro tener un alcance impresionante en México y otros paises a 
+        base de programadores. Sin embargo por no saber administrar en ese momento 
+        No salio como pensé  el proyecto.
+        <h2>Mi educación</h2>
+        <h3>Me eduque incialmente en el bachillerato Mach Collage donde la carrera técnica que lleve es 
+            informática administrativa. 
+            Aparte de mi carrera técnica tome un curso de la Organización de los Estados Americanos (OEA) en 
+            proyectos digitales.
+        </h3>
+        <h2>Mi experiencia laboral</h2>
+        <h3>Estuve laborando en SKY como ejecutivo de ventas donde realizaba 
+la venta de productos de internet.
+Asi como en True Home By Lofth que es una empresa de categoria fintech en bienes raices, donde mi cargo era perfilador. 
+Actualmente trabajando en TKM donde mi puesto es igual en ventas.
+<h2>Mi Skill</h2>
+<h3>Mis principales habilidades es aprender muy rápido. </h3>
+   <h3>La tecnología es algo que me apasiona y se me da muy sencillo. </h3> 
+   <h3>Asi como soy autodidacta</h3>
+   <h3>Soy muy disciplinado</h3>
+<h2>Mis Hobbies</h2>
+<H3>
+    Mis principales hobies están en escuchar música, leer libros en especial de superación personal, ver series y salir a dar la vuelta.
+</H3>
+<a href="https://www.facebook.com/pablo.fransisco.79/">Pablo Santiago Facebook</a>
+<ul>
+    <li>
+     <center>
+<img src="https://scontent.fmex38-1.fna.fbcdn.net/v/t39.30808-6/301943407_1962849897250305_8648159833514864536_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=xlRmEyl0SGAAX-m6d03&_nc_ht=scontent.fmex38-1.fna&oh=00_AT8lbQgoKpLW0UtFzROJBw_5ijUuWo8KTEVizJR4cc1IZQ&oe=632C553E"/>
+</center>    
+</li>
+</ul>
+</div>
+</body>
+</html>
